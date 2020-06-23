@@ -3,9 +3,7 @@ Imports System.Net.Http
 Imports System.Threading.Tasks
 Imports System.Web.Http
 Imports GraphQL
-Imports GraphQL.Http
 Imports GraphQL.Instrumentation
-'Imports GraphQL.NewtonsoftJson
 Imports GraphQL.Types
 Imports GraphQL.Validation.Complexity
 
